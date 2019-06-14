@@ -8,3 +8,10 @@
 * webpack：项目的初始化、编译、打包。<br>
 * eslint：代码风格检查工具，规范代码格式。<br>
 * vscode：代码编译与开发工具，可以实现多终端运行，方便快捷。<br>
+
+# 安装与运行
+npm install //安装依赖
+
+npm run dev //服务端运行 访问 http://localhost:8080
+
+npm run build  //项目打包 
