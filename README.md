@@ -11,6 +11,17 @@
 * vscode：代码编译与开发工具，可以实现多终端运行，方便快捷。<br>
 * proxy: 使用代理模式进行数据跨域请求。<br>
 
+##界面
+![image](https://github.com/HZJ0716/Mini-Program-no.1/blob/master/demo1.png)
+
+![image](https://github.com/HZJ0716/Mini-Program-no.1/blob/master/demo2.png)
+
+![image](https://github.com/HZJ0716/Mini-Program-no.1/blob/master/demo3.png)
+
+![image](https://github.com/HZJ0716/Mini-Program-no.1/blob/master/demo4.png)
+
+![image](https://github.com/HZJ0716/Mini-Program-no.1/blob/master/demo5.png)
+
 ## 模块
 * 影视模块：影视推荐，影视详情<br>
 * 书籍模块：书籍推荐，书籍详情<br>
