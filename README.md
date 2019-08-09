@@ -12,15 +12,15 @@
 * proxy: 使用代理模式进行数据跨域请求。<br>
 
 ##界面
-![image](https://github.com/HZJ0716/Mini-Program-no.1/blob/master/demo1.png)
+![image](https://github.com/HZJ0716/-_douban/blob/master/demo1.png)
 
-![image](https://github.com/HZJ0716/Mini-Program-no.1/blob/master/demo2.png)
+![image](https://github.com/HZJ0716/-_douban/blob/master/demo2.png)
 
-![image](https://github.com/HZJ0716/Mini-Program-no.1/blob/master/demo3.png)
+![image](https://github.com/HZJ0716/-_douban/blob/master/demo3.png)
 
-![image](https://github.com/HZJ0716/Mini-Program-no.1/blob/master/demo4.png)
+![image](https://github.com/HZJ0716/-_douban/blob/master/demo4.png)
 
-![image](https://github.com/HZJ0716/Mini-Program-no.1/blob/master/demo5.png)
+![image](https://github.com/HZJ0716/-_douban/blob/master/demo5.png)
 
 ## 模块
 * 影视模块：影视推荐，影视详情<br>
