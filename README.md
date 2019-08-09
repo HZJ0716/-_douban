@@ -11,7 +11,7 @@
 * vscode：代码编译与开发工具，可以实现多终端运行，方便快捷。<br>
 * proxy: 使用代理模式进行数据跨域请求。<br>
 
-##界面<br>
+## 界面<br>
 ![image](https://github.com/HZJ0716/-_douban/blob/master/demo1.png)
 
 ![image](https://github.com/HZJ0716/-_douban/blob/master/demo2.png)
